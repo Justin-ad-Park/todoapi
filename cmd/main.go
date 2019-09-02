@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/gihyodocker/todoapi"
+	"github.com/Justin-ad-Park/todoapi"
 )
 
 func main() {
